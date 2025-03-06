@@ -1,16 +1,21 @@
-## Hi there 👋
+# **Hello, I'm Zach Leyes!** 👋  
 
-<!--
-**WebDevZach/WebDevZach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Engineering Student | Wright State University**  
+🔍 **Seeking Summer 2025 Internship in Embedded Systems**  
 
-Here are some ideas to get you started:
+## **About Me**  
+I'm passionate about embedded systems, FPGA design, and hardware-software integration. I enjoy tackling complex engineering challenges and continuously learning new technologies to enhance my skill set.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📩 Feel free to reach out: **leyes.4@wright.edu**  
+
+---
+
+## **Current Projects**  
+🚀 **FPGA Digital Signal Processing**  
+🔬 **Small Radar System with Arduino**  
+
+
+
+
+
+
