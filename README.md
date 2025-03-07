@@ -11,8 +11,12 @@ I'm passionate about embedded systems, FPGA design, and hardware-software integr
 ---
 
 ## **Current Projects**  
+
 🚀 **FPGA Digital Signal Processing**  
+Developing an FPGA-based system to process digital signals efficiently, focusing on real-time data analysis.  
+
 🔬 **Small Radar System with Arduino**  
+Building a compact radar system using an Arduino microcontroller to detect and measure object distances through signal processing. 
 
 
 
